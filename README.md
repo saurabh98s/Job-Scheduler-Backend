@@ -5,7 +5,7 @@
 
 
 
-What the task declared was to devise a method a method where a user has the option<br>
+What the task declared was to devise a method where a user has the option<br>
 to stop or abort any long running task if he/she finds some error due to any reason<br>
 So, the Api given in the repo is designed so that a simple request to the desired job id<br>
 will stop the task when it is running. The API is designed in GoLang, which is as far<br>
